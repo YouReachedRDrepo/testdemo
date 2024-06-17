@@ -1,0 +1,1 @@
+This is at project level. an ideal place all these sample txt files for git practice should be stored.
