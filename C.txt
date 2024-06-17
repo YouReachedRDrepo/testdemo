@@ -9,3 +9,5 @@ let me try this again. lets be unfair with master this time. D.txt is staged in 
 
 this is exclusive in feature1a
 
+now added line 12 for 2 commits in feature1a
+
