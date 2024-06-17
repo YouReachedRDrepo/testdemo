@@ -1,3 +1,8 @@
 Hey i'm txt file created in feature 1 from master
 
 now if i switch to master then i shouldnt see these changes
+
+
+i added this in feature1 but didnt commit, meanwhile checkout master and committed here. now file disappeared from feature1 staged and committed in master
+
+let me try this again. lets be unfair with master this time. D.txt is staged in master but committed in feature1
