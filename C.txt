@@ -11,3 +11,5 @@ this is exclusive in feature1a
 
 now added line 12 for 2 commits in feature1a
 
+
+i added this linein class and pushed to remote
